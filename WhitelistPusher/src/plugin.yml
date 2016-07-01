@@ -1,0 +1,9 @@
+name: WhitelistPusher
+main: com.github.chrisboyce.WhitelistPusher.WhitelistPusher
+version: 0.1
+commands:
+   wafflelist:
+      description: Waffle-Lists someone
+      usage: /wafflelist <player> [referrer]
+      permission: wafflelist
+      permisison-message: You don't have <permission>
